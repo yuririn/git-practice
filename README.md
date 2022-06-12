@@ -1,4 +1,3 @@
 # git-practice
 
-テストaaaaaaaaaaaaa
-
+テストaaaaaaa
